@@ -1,0 +1,12 @@
+# MATLAB generated
+*.asv
+slprj/
+*.slxc
+codegen/
+
+# Large binary data (track source CSVs/XLSX selectively)
+*.mat
+
+# macOS
+.DS_Store
+**/.DS_Store
